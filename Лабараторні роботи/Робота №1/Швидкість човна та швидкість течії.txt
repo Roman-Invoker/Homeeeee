@@ -1,0 +1,21 @@
+var
+    L: Real;
+    T1, T2: Real;
+    L_km, T1_hr, T2_hr: Real;
+    Vb, Vr: Real;
+
+begin
+    ReadLn(L);
+    ReadLn(T1);
+    ReadLn(T2);
+
+    L_km := L / 1000;
+    T1_hr := T1 / 60;
+    T2_hr := T2 / 60;
+
+    Vb := (L_km / T1_hr + L_km / T2_hr) / 2;
+    Vr := (L_km / T1_hr - L_km / T2_hr) / 2;
+
+    WriteLn(Vb:0:2);
+    WriteLn(Vr:0:2);
+end.
