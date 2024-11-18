@@ -1,0 +1,8 @@
+program kkkk;
+var
+n:LongInt;
+p:Real;
+begin
+Read(n,p);
+Write(p*(2*n-1));
+end.
