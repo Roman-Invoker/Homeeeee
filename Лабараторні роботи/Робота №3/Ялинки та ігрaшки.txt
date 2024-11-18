@@ -1,0 +1,14 @@
+program ChristmasTrees;
+var
+  N, P: integer;
+  B: real;
+  Toys1, Toys2, Toys3, TotalToys: integer;
+begin
+  readln(N, P, B);
+  Toys1 := N;
+  Toys2 := round(Toys1 * (1 + P / 100));
+  Toys3 := round(Toys2 * B);
+  TotalToys := Toys1 + Toys2 + Toys3;
+  writeln(TotalToys);
+end.
+s
