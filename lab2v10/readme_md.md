@@ -160,8 +160,8 @@ namespace OOPLab2
         }
     }
 }
-```
-<img width="821" height="352" alt="Screenshot 2026-09-19 135647" src="https://github.com/user-attachments/assets/8b35c871-ce2b-4893-86d1-6e99b748a2f8" />
+```<img width="935" height="438" alt="{424D7468-2973-45CB-97E3-C5AE7906EEA8}" src="https://github.com/user-attachments/assets/7c470556-daf1-4a81-9009-91cfbaa2ac3d" />
+
 
 
 ---
