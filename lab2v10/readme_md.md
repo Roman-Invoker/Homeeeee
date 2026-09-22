@@ -161,6 +161,8 @@ namespace OOPLab2
     }
 }
 ```
+<img width="821" height="352" alt="Screenshot 2026-09-19 135647" src="https://github.com/user-attachments/assets/8b35c871-ce2b-4893-86d1-6e99b748a2f8" />
+
 
 ---
 
